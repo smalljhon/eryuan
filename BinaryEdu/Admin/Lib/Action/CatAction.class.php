@@ -1,11 +1,11 @@
 <?php
 
-//自定义分类模块Action
-
+//自定义分类模块Action 
+ 
 class CatAction extends CommonAction{
     //重写_list方法
     /**
-	 * 根据表单生成查询条件
+	 * 根据表单生成 查询条件
 	 * 进行列表过滤
 	 * @param Model $model 数据对象
 	 * @param HashMap $map 过滤条件
