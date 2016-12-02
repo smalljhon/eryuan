@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-11-21 22:28:13
+<?php /* Smarty version Smarty-3.1.6, created on 2016-12-02 11:34:43
          compiled from "./Home/Tpl\Index\index.html" */ ?>
-<?php /*%%SmartyHeaderCode:223995833047d093887-22616085%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:217905840ebd3996778-63342020%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '223995833047d093887-22616085',
+  'nocache_hash' => '217905840ebd3996778-63342020',
   'function' => 
   array (
   ),
@@ -47,10 +47,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.6',
-  'unifunc' => 'content_5833047d3ae59',
+  'unifunc' => 'content_5840ebd42dcb5',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5833047d3ae59')) {function content_5833047d3ae59($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'D:\\work\\projects\\eryuan\\code\\ThinkPHP\\Extend\\Vendor\\Smarty\\plugins\\modifier.truncate.php';
-if (!is_callable('smarty_modifier_date_format')) include 'D:\\work\\projects\\eryuan\\code\\ThinkPHP\\Extend\\Vendor\\Smarty\\plugins\\modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5840ebd42dcb5')) {function content_5840ebd42dcb5($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'D:\\work\\projects\\eryuan\\git\\eryuan_git\\BinaryEdu\\ThinkPHP\\Extend\\Vendor\\Smarty\\plugins\\modifier.truncate.php';
+if (!is_callable('smarty_modifier_date_format')) include 'D:\\work\\projects\\eryuan\\git\\eryuan_git\\BinaryEdu\\ThinkPHP\\Extend\\Vendor\\Smarty\\plugins\\modifier.date_format.php';
 ?><!DOCTYPE html>
 <html>
     <head>
