@@ -12,3 +12,5 @@ define("APP_PATH","./Home/");
 
 //3.导入入口文件
 require("./ThinkPHP/ThinkPHP.php");
+
+//为了测试分支功能 我在这边新增加内容
